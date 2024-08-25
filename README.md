@@ -13,7 +13,6 @@ This Python script allows you to fetch and display the latest news headlines fro
 - Python 3.x
 - `requests` library
 - `newsapi-python` library
-- `BeautifulSoup` (optional for further parsing, though not used in the current code)
 
 ## Installation
 
@@ -27,7 +26,7 @@ This Python script allows you to fetch and display the latest news headlines fro
 2. Install the required Python packages:
 
    ```bash
-   pip install requests newsapi-python beautifulsoup4
+   pip install requests newsapi-python
    ```
 
 3. Obtain an API key from [News API](https://newsapi.org/) by signing up and replace `credentials.API_Key` with your API key in the code.
