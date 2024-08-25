@@ -1,7 +1,6 @@
 import credentials 
 import requests
 from newsapi import NewsApiClient
-from bs4 import BeautifulSoup
 api = NewsApiClient(api_key=credentials.API_Key)
 
 l = ['business', 'entertainment', 'general', 'health', 'science', 'sports', 'technology']
