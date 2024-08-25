@@ -43,7 +43,7 @@ This Python script allows you to fetch and display the latest news headlines fro
 Run the script and follow the prompts to select the type of news you want to read:
 
 ```bash
-python news_fetcher.py
+python news_app.py
 ```
 
 You'll be prompted to choose a news category:
